@@ -1,0 +1,13 @@
+theme: jekyll-theme-hacker
+title: [CPP]
+description: [C++ o'zbek tilida]
+show_downloads: false
+show_github_repository: false
+show_description: true
+show_visitors: true
+is_theme_by: false
+
+github:
+  martianvenusianorg_url: https://martianvenusianorg.github.io 
+  home_url: https://martianvenusianorg.github.io/cpp_uz/
+  repository_name: [CPP]
