@@ -4,4 +4,4 @@ Object (Obyekt) bu o'zgaruvchi bo'lib o'zining function (funksiya) azolariga ega
 
 ## [Structure](./TUTORIALS/SECTIONS/structure_and_class/structure.html)
 
-## [Class](./TUTORIALS/SECTIONS/class.html)
+## [Class](./TUTORIALS/SECTIONS/structure_and_class/class.html)
