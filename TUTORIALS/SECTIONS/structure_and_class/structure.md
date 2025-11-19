@@ -174,7 +174,7 @@ Biz *structure*ning qiymatini shunaqa yusunda o'zlashtirishimiz **sayoz nusxalas
 
 ---
 
-#### ****OGOH BO'LING:** *****Structure*ni e'lon qilayotganingizda nuqta-vergul qo'yishni unutmang.**
+#### **OGOH BO'LING:** ***Structure***ni e'lon qilayotganingizda nuqta-vergul qo'yishni unutmang.
 
 Qachonki oxirgi } qavsni *structure*ning tugashiga qo'shganimizda, go'yoki *structure*ni yaratish tugaganidek his qilamiz, lekin aslida unday emas. Bu ko'p ham ahamiyat kasb etmaydigan o'ziga xos husisiya bo'lsa ham siz *structure*ning oxirgi } qavsidan keyin ; nuqta-vergulni qo'yishingiz kerak. *Structure*ni tafsivlash bu shunchaki faqat *structure* yaratishni bildirmaydi, balki biz *structure* yaratish mobaynida o'zgaruvchilarini ham e'lon qilib ketishimiz ham mumkin. Chunki siz } yakuniy qavs va ; nuqta-vergul orasida *structure*ning o'zgaruvchilar nomlari ro'yxatini berib ketishga ro'xsat etilgansiz. Misol uchun, quydagi misol WeatherData nomli *structure*ni yaratadi va ikkita WeatherData *structure* turdagi o'zgaruvchilar `dataPoint1` va `dataPoint2`ni e'lon qiladi:
 
@@ -190,11 +190,9 @@ Biroq, aytib o'tganimizdek, biz har doim *structure* tavsifi va bu *structure* t
 
 ---
 
-
-
 > #### Nuqta operatori (The Dot Operation)
 >
-> Nuqta operatori *structure* toifali o'zgaruvchining a'zo o'zgaruvchisini belgilash uchun ishlatiladi. 
+> Nuqta operatori *structure* toifali o'zgaruvchining a'zo o'zgaruvchisini belgilash uchun ishlatiladi.
 >
 > ```cpp
 > struct StudentRecord
