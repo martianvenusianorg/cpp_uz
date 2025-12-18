@@ -40,5 +40,7 @@
 # debug information files
 *.dwo
 
+.vscode/
+
 # Book 
 Problem_Solving_CPP_Walter_J_Savitch.pdf
